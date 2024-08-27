@@ -1,0 +1,37 @@
+h1 {
+    color: black;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: bold ;
+    text-align: center;
+    background-color: bisque;
+
+}
+
+/*comment line*/
+p{
+    color:darkslategrey
+}
+
+.movie-info, 
+.board-games, 
+.coffee, 
+.recipe, 
+.nap {
+    color: black;
+}
+
+body{
+    background-color: rgb(187, 207, 228);
+}
+
+
+.coffee-image, 
+.board-games-image, 
+.recipe-image, 
+.coffe-and-rain-image, 
+.sleeping-women-image {
+    width: 100%;    
+    max-width: 300px; 
+    height: auto;   
+}
